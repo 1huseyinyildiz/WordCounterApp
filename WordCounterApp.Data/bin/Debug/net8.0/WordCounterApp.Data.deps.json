@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WordCounterApp.Data/1.0.0": {
+        "dependencies": {
+          "WordCounterApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "WordCounterApp.Data.dll": {}
+        }
+      },
+      "WordCounterApp.Core/1.0.0": {
+        "runtime": {
+          "WordCounterApp.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordCounterApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WordCounterApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

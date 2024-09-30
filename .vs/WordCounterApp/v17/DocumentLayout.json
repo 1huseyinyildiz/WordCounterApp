@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\WordCounterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5284C814-C653-4E60-A789-21058B66B653}|WordCounterApp.Test\\WordCounterApp.Test.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.test\\data\\filereaders\\filereadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5284C814-C653-4E60-A789-21058B66B653}|WordCounterApp.Test\\WordCounterApp.Test.csproj|solutionrelative:wordcounterapp.test\\data\\filereaders\\filereadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.core\\models\\constvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|solutionrelative:wordcounterapp.core\\models\\constvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.core\\models\\errorconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|solutionrelative:wordcounterapp.core\\models\\errorconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.core\\models\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|solutionrelative:wordcounterapp.core\\models\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C75262-4DD8-4A21-9652-EC5A46766454}|WordCounterApp.Data\\WordCounterApp.Data.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.data\\filereaders\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C75262-4DD8-4A21-9652-EC5A46766454}|WordCounterApp.Data\\WordCounterApp.Data.csproj|solutionrelative:wordcounterapp.data\\filereaders\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF5F6BA-3539-4712-9B09-D05B6F454E08}|WordCounterApp.Services\\WordCounterApp.Services.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.services\\wordcountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF5F6BA-3539-4712-9B09-D05B6F454E08}|WordCounterApp.Services\\WordCounterApp.Services.csproj|solutionrelative:wordcounterapp.services\\wordcountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.core\\interfaces\\iwordcountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|solutionrelative:wordcounterapp.core\\interfaces\\iwordcountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.core\\interfaces\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A80F13-C59D-4B70-94F5-2DCA06455DE0}|WordCounterApp.Core\\WordCounterApp.Core.csproj|solutionrelative:wordcounterapp.core\\interfaces\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F698266C-5C2F-4022-B77D-DDD1FC0E7340}|WordCounterApp.Presentation\\WordCounterApp.Presentation.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F698266C-5C2F-4022-B77D-DDD1FC0E7340}|WordCounterApp.Presentation\\WordCounterApp.Presentation.csproj|solutionrelative:wordcounterapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5284C814-C653-4E60-A789-21058B66B653}|WordCounterApp.Test\\WordCounterApp.Test.csproj|c:\\projects\\wordcounterapp\\wordcounterapp.test\\services\\wordcountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5284C814-C653-4E60-A789-21058B66B653}|WordCounterApp.Test\\WordCounterApp.Test.csproj|solutionrelative:wordcounterapp.test\\services\\wordcountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Data\\FileReaders\\FileReader.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Data\\FileReaders\\FileReader.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Data\\FileReaders\\FileReader.cs",
+              "RelativeToolTip": "WordCounterApp.Data\\FileReaders\\FileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:55:11.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordCountService.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Services\\WordCountService.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Services\\WordCountService.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Services\\WordCountService.cs",
+              "RelativeToolTip": "WordCounterApp.Services\\WordCountService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:09:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWordCountService.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Interfaces\\IWordCountService.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Core\\Interfaces\\IWordCountService.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Interfaces\\IWordCountService.cs",
+              "RelativeToolTip": "WordCounterApp.Core\\Interfaces\\IWordCountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:09:33.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFileReader.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Interfaces\\IFileReader.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Core\\Interfaces\\IFileReader.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Interfaces\\IFileReader.cs",
+              "RelativeToolTip": "WordCounterApp.Core\\Interfaces\\IFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:09:20.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordCount.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Models\\WordCount.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Core\\Models\\WordCount.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Models\\WordCount.cs",
+              "RelativeToolTip": "WordCounterApp.Core\\Models\\WordCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:08:43.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConstValues.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Models\\ConstValues.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Core\\Models\\ConstValues.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Models\\ConstValues.cs",
+              "RelativeToolTip": "WordCounterApp.Core\\Models\\ConstValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:03:21.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorConst.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Models\\ErrorConst.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Core\\Models\\ErrorConst.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Core\\Models\\ErrorConst.cs",
+              "RelativeToolTip": "WordCounterApp.Core\\Models\\ErrorConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:48:31.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileReaderTests.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Test\\Data\\FileReaders\\FileReaderTests.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Test\\Data\\FileReaders\\FileReaderTests.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Test\\Data\\FileReaders\\FileReaderTests.cs",
+              "RelativeToolTip": "WordCounterApp.Test\\Data\\FileReaders\\FileReaderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:56:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordCountServiceTests.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Test\\Services\\WordCountServiceTests.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Test\\Services\\WordCountServiceTests.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Test\\Services\\WordCountServiceTests.cs",
+              "RelativeToolTip": "WordCounterApp.Test\\Services\\WordCountServiceTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:56:56.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\WordCounterApp\\WordCounterApp.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "WordCounterApp.Presentation\\Program.cs",
+              "ToolTip": "C:\\Projects\\WordCounterApp\\WordCounterApp.Presentation\\Program.cs",
+              "RelativeToolTip": "WordCounterApp.Presentation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:45:19.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

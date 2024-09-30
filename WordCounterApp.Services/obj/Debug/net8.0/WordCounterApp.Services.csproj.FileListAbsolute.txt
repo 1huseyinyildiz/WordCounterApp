@@ -1,0 +1,16 @@
+C:\Projects\WordCounterApp\WordCounterApp.Services\bin\Debug\net8.0\WordCounterApp.Services.deps.json
+C:\Projects\WordCounterApp\WordCounterApp.Services\bin\Debug\net8.0\WordCounterApp.Services.dll
+C:\Projects\WordCounterApp\WordCounterApp.Services\bin\Debug\net8.0\WordCounterApp.Services.pdb
+C:\Projects\WordCounterApp\WordCounterApp.Services\bin\Debug\net8.0\WordCounterApp.Core.dll
+C:\Projects\WordCounterApp\WordCounterApp.Services\bin\Debug\net8.0\WordCounterApp.Core.pdb
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\WordCounterApp.Services.csproj.AssemblyReference.cache
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\WordCounterApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\WordCounterApp.Services.AssemblyInfoInputs.cache
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\WordCounterApp.Services.AssemblyInfo.cs
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\WordCounterApp.Services.csproj.CoreCompileInputs.cache
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\WordCounterApp.Services.sourcelink.json
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\WordCoun.1E969880.Up2Date
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\WordCounterApp.Services.dll
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\refint\WordCounterApp.Services.dll
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\WordCounterApp.Services.pdb
+C:\Projects\WordCounterApp\WordCounterApp.Services\obj\Debug\net8.0\ref\WordCounterApp.Services.dll

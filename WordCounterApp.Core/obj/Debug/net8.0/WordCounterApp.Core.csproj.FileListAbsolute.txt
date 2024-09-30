@@ -1,0 +1,12 @@
+C:\Projects\WordCounterApp\WordCounterApp.Core\bin\Debug\net8.0\WordCounterApp.Core.deps.json
+C:\Projects\WordCounterApp\WordCounterApp.Core\bin\Debug\net8.0\WordCounterApp.Core.dll
+C:\Projects\WordCounterApp\WordCounterApp.Core\bin\Debug\net8.0\WordCounterApp.Core.pdb
+C:\Projects\WordCounterApp\WordCounterApp.Core\obj\Debug\net8.0\WordCounterApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WordCounterApp\WordCounterApp.Core\obj\Debug\net8.0\WordCounterApp.Core.AssemblyInfoInputs.cache
+C:\Projects\WordCounterApp\WordCounterApp.Core\obj\Debug\net8.0\WordCounterApp.Core.AssemblyInfo.cs
+C:\Projects\WordCounterApp\WordCounterApp.Core\obj\Debug\net8.0\WordCounterApp.Core.csproj.CoreCompileInputs.cache
+C:\Projects\WordCounterApp\WordCounterApp.Core\obj\Debug\net8.0\WordCounterApp.Core.sourcelink.json
+C:\Projects\WordCounterApp\WordCounterApp.Core\obj\Debug\net8.0\WordCounterApp.Core.dll
+C:\Projects\WordCounterApp\WordCounterApp.Core\obj\Debug\net8.0\refint\WordCounterApp.Core.dll
+C:\Projects\WordCounterApp\WordCounterApp.Core\obj\Debug\net8.0\WordCounterApp.Core.pdb
+C:\Projects\WordCounterApp\WordCounterApp.Core\obj\Debug\net8.0\ref\WordCounterApp.Core.dll
